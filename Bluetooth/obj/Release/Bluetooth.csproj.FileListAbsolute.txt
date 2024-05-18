@@ -1,0 +1,13 @@
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\bin\Release\Bluetooth.exe.config
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\bin\Release\Bluetooth.exe
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\bin\Release\Bluetooth.pdb
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\obj\Release\Bluetooth.csproj.AssemblyReference.cache
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\obj\Release\Bluetooth.Form1.resources
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\obj\Release\Bluetooth.Properties.Resources.resources
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\obj\Release\Bluetooth.csproj.GenerateResource.cache
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\obj\Release\Bluetooth.csproj.CoreCompileInputs.cache
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\obj\Release\Bluetooth.csproj.Up2Date
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\obj\Release\Bluetooth.exe
+C:\Users\ganon\source\repos\Bluetooth\Bluetooth\obj\Release\Bluetooth.pdb
